@@ -457,7 +457,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(../images/v800.jpg);
+    background-image: url(../images/two-big-image.jpg);
     transition: background-position .5s;
     cursor: pointer;
 }
