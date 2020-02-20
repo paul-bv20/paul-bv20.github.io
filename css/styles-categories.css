@@ -451,13 +451,12 @@
 	display: flex;
     justify-content: space-between;
     flex-direction: column;
-
     height: 100%;
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(../images/two-big-image.jpg);
+    background-image: url(../images/v800.jpg);
     transition: background-position .5s;
     cursor: pointer;
 }
