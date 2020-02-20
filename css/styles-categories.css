@@ -457,7 +457,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(../images/V800.jpg);
+    background-image: url(../images/v800.jpg);
     transition: background-position .5s;
     cursor: pointer;
 }
